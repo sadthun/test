@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --primary: #2c3e50;
+    --secondary: #f39c12;
+    --secondario-op: rgba(243, 156, 18, 0.6);
+    --tertiary: #e74c3c;
+    --quaternary: #ffffff;
+    --quinary: #bdc3c7;
+    --senary: #34495e;
+
+    --titoli-font: 'Montserrat', sans-serif;
+    --paragrafi-font: 'Roboto', sans-serif;
+}
+
+* {
+    font-family: var(--paragrafi-font);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--titoli-font);
+}
+
+
+/*=========== NAVBAR ==========================*/
+.presto_navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(52, 73, 94, 0.7);
+    padding: 1rem;
+    z-index: 1000;
+}
+
+#navbar-main a {
+    font-size: 120% !important;
+    color: var(--quaternary) !important;
+}
+
+.navbar_main li {
+    margin-right: 2rem !important;
+    letter-spacing: 0.2rem;
+}
+
+#presto-font-size {
+    font-size: 2rem !important;
+    padding-left: 2rem;
+}
+
+/*=========== IMMAGINE SFONDO E BOTTONI ==========================*/
+
+.presto-img {
+    max-height: 100vh; /* Ridotto per migliorare il layout */
+    width: 100%;
+    object-fit: cover;
+}
+
+.presto-bghome {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5rem;
+}
+
+
+.presto-bghome h1 {
+    font-size: 3.5rem;
+    padding-left: 1rem;
+    color: var(--quaternary);
+    text-shadow:
+        0 0 7px var(--quinary),
+        0 0 10px var(--quinary),
+        0 0 21px var(--quinary),
+        0 0 42px var(--secondary);
+    animation: flicker 1.5s infinite alternate;
+}
+
+@keyframes flicker {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.8; }
+}
+
+.presto-btn {
+    background-color: var(--senary);
+    color: var(--quaternary);
+    border-radius: 5px;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease-in-out;
+}
+
+
+.presto-btn:hover {
+    background-color: var(--secondary);
+}
+
+/*=========== NUMERI ==========================*/
+#numeri {
+    padding-top: 3rem;
+    padding-left: 10rem;
+}
+
+#numeri p{
+    padding-top: 2rem;
+    font-size:x-large;
+}
+
+#numeri span{
+    font-size: 12;
+    color: var(--secondario-op);
+    font-weight: bold;
+}
+
+.presto-filtri{
+    margin-top: 10%;
+}
+
+.presto-margin-neg{
+    margin-top: -7rem;
+}
+
+.presto-filtri h6{
+    color: var(--quaternary);
+    background-color: var(--secondary);
+    padding: 0.5rem;
+}

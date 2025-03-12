@@ -1,0 +1,1001 @@
+[{
+  "id": 1,
+  "regione": "Liguria",
+  "prezzo": 324930,
+  "superficie": 528,
+  "n_camere": 7,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 2,
+  "regione": "Lazio",
+  "prezzo": 293783,
+  "superficie": 696,
+  "n_camere": 9,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 3,
+  "regione": "Valle d'Aosta",
+  "prezzo": 609614,
+  "superficie": 582,
+  "n_camere": 17,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 4,
+  "regione": "Liguria",
+  "prezzo": 456427,
+  "superficie": 228,
+  "n_camere": 5,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 5,
+  "regione": "Marche",
+  "prezzo": 1081575,
+  "superficie": 245,
+  "n_camere": 19,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 6,
+  "regione": "Lombardia",
+  "prezzo": 329808,
+  "superficie": 764,
+  "n_camere": 12,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 7,
+  "regione": "Piemonte",
+  "prezzo": 1101477,
+  "superficie": 697,
+  "n_camere": 9,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 8,
+  "regione": "Calabria",
+  "prezzo": 1346403,
+  "superficie": 718,
+  "n_camere": 10,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 9,
+  "regione": "Friuli-Venezia Giulia",
+  "prezzo": 1424820,
+  "superficie": 613,
+  "n_camere": 11,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 10,
+  "regione": "Basilicata",
+  "prezzo": 401735,
+  "superficie": 582,
+  "n_camere": 12,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 11,
+  "regione": "Piemonte",
+  "prezzo": 506996,
+  "superficie": 584,
+  "n_camere": 14,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 12,
+  "regione": "Piemonte",
+  "prezzo": 1420155,
+  "superficie": 558,
+  "n_camere": 8,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 13,
+  "regione": "Liguria",
+  "prezzo": 378440,
+  "superficie": 776,
+  "n_camere": 11,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 14,
+  "regione": "Puglia",
+  "prezzo": 1062781,
+  "superficie": 301,
+  "n_camere": 14,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 15,
+  "regione": "Emilia-Romagna",
+  "prezzo": 1001806,
+  "superficie": 741,
+  "n_camere": 7,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 16,
+  "regione": "Piemonte",
+  "prezzo": 729272,
+  "superficie": 380,
+  "n_camere": 11,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 17,
+  "regione": "Piemonte",
+  "prezzo": 738223,
+  "superficie": 739,
+  "n_camere": 12,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 18,
+  "regione": "Valle d'Aosta",
+  "prezzo": 358569,
+  "superficie": 645,
+  "n_camere": 13,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 19,
+  "regione": "Calabria",
+  "prezzo": 212136,
+  "superficie": 532,
+  "n_camere": 12,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 20,
+  "regione": "Toscana",
+  "prezzo": 344674,
+  "superficie": 425,
+  "n_camere": 11,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 21,
+  "regione": "Puglia",
+  "prezzo": 1095867,
+  "superficie": 743,
+  "n_camere": 18,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 22,
+  "regione": "Abruzzo",
+  "prezzo": 1303483,
+  "superficie": 527,
+  "n_camere": 17,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 23,
+  "regione": "Basilicata",
+  "prezzo": 530139,
+  "superficie": 211,
+  "n_camere": 10,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 24,
+  "regione": "Molise",
+  "prezzo": 876961,
+  "superficie": 570,
+  "n_camere": 10,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 25,
+  "regione": "Trentino-Alto Adige",
+  "prezzo": 1414151,
+  "superficie": 472,
+  "n_camere": 9,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 26,
+  "regione": "Basilicata",
+  "prezzo": 1234707,
+  "superficie": 741,
+  "n_camere": 20,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 27,
+  "regione": "Valle d'Aosta",
+  "prezzo": 722712,
+  "superficie": 305,
+  "n_camere": 16,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 28,
+  "regione": "Umbria",
+  "prezzo": 461410,
+  "superficie": 692,
+  "n_camere": 12,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 29,
+  "regione": "Emilia-Romagna",
+  "prezzo": 785863,
+  "superficie": 227,
+  "n_camere": 10,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 30,
+  "regione": "Lazio",
+  "prezzo": 339303,
+  "superficie": 744,
+  "n_camere": 13,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 31,
+  "regione": "Liguria",
+  "prezzo": 335622,
+  "superficie": 665,
+  "n_camere": 19,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 32,
+  "regione": "Sardegna",
+  "prezzo": 262887,
+  "superficie": 562,
+  "n_camere": 6,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 33,
+  "regione": "Lazio",
+  "prezzo": 1499722,
+  "superficie": 751,
+  "n_camere": 19,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 34,
+  "regione": "Friuli-Venezia Giulia",
+  "prezzo": 434794,
+  "superficie": 660,
+  "n_camere": 20,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 35,
+  "regione": "Abruzzo",
+  "prezzo": 1346487,
+  "superficie": 377,
+  "n_camere": 14,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 36,
+  "regione": "Molise",
+  "prezzo": 970822,
+  "superficie": 240,
+  "n_camere": 18,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 37,
+  "regione": "Calabria",
+  "prezzo": 356268,
+  "superficie": 685,
+  "n_camere": 12,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 38,
+  "regione": "Puglia",
+  "prezzo": 834824,
+  "superficie": 205,
+  "n_camere": 8,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 39,
+  "regione": "Liguria",
+  "prezzo": 1110786,
+  "superficie": 418,
+  "n_camere": 9,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 40,
+  "regione": "Friuli-Venezia Giulia",
+  "prezzo": 437211,
+  "superficie": 618,
+  "n_camere": 15,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 41,
+  "regione": "Trentino-Alto Adige",
+  "prezzo": 1341532,
+  "superficie": 681,
+  "n_camere": 20,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 42,
+  "regione": "Sardegna",
+  "prezzo": 520805,
+  "superficie": 699,
+  "n_camere": 18,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 43,
+  "regione": "Veneto",
+  "prezzo": 1316554,
+  "superficie": 366,
+  "n_camere": 6,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 44,
+  "regione": "Valle d'Aosta",
+  "prezzo": 205411,
+  "superficie": 202,
+  "n_camere": 6,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 45,
+  "regione": "Umbria",
+  "prezzo": 767355,
+  "superficie": 789,
+  "n_camere": 7,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 46,
+  "regione": "Umbria",
+  "prezzo": 945095,
+  "superficie": 799,
+  "n_camere": 13,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 47,
+  "regione": "Puglia",
+  "prezzo": 695418,
+  "superficie": 322,
+  "n_camere": 9,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 48,
+  "regione": "Puglia",
+  "prezzo": 1190010,
+  "superficie": 534,
+  "n_camere": 7,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 49,
+  "regione": "Veneto",
+  "prezzo": 1308102,
+  "superficie": 689,
+  "n_camere": 18,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 50,
+  "regione": "Umbria",
+  "prezzo": 776212,
+  "superficie": 500,
+  "n_camere": 10,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 51,
+  "regione": "Calabria",
+  "prezzo": 1245694,
+  "superficie": 327,
+  "n_camere": 19,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 52,
+  "regione": "Basilicata",
+  "prezzo": 811852,
+  "superficie": 306,
+  "n_camere": 17,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 53,
+  "regione": "Umbria",
+  "prezzo": 880075,
+  "superficie": 660,
+  "n_camere": 19,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 54,
+  "regione": "Piemonte",
+  "prezzo": 916351,
+  "superficie": 294,
+  "n_camere": 8,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 55,
+  "regione": "Calabria",
+  "prezzo": 1481975,
+  "superficie": 729,
+  "n_camere": 12,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 56,
+  "regione": "Piemonte",
+  "prezzo": 1275466,
+  "superficie": 778,
+  "n_camere": 12,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 57,
+  "regione": "Sicilia",
+  "prezzo": 437665,
+  "superficie": 410,
+  "n_camere": 13,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 58,
+  "regione": "Sicilia",
+  "prezzo": 349562,
+  "superficie": 277,
+  "n_camere": 5,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 59,
+  "regione": "Lombardia",
+  "prezzo": 798270,
+  "superficie": 211,
+  "n_camere": 14,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 60,
+  "regione": "Sardegna",
+  "prezzo": 1268201,
+  "superficie": 305,
+  "n_camere": 15,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 61,
+  "regione": "Valle d'Aosta",
+  "prezzo": 312843,
+  "superficie": 774,
+  "n_camere": 10,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 62,
+  "regione": "Calabria",
+  "prezzo": 430848,
+  "superficie": 384,
+  "n_camere": 7,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 63,
+  "regione": "Umbria",
+  "prezzo": 734968,
+  "superficie": 784,
+  "n_camere": 14,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 64,
+  "regione": "Emilia-Romagna",
+  "prezzo": 865242,
+  "superficie": 463,
+  "n_camere": 20,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 65,
+  "regione": "Abruzzo",
+  "prezzo": 1421988,
+  "superficie": 376,
+  "n_camere": 11,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 66,
+  "regione": "Valle d'Aosta",
+  "prezzo": 1199757,
+  "superficie": 215,
+  "n_camere": 14,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 67,
+  "regione": "Toscana",
+  "prezzo": 1148550,
+  "superficie": 624,
+  "n_camere": 15,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 68,
+  "regione": "Lazio",
+  "prezzo": 706211,
+  "superficie": 238,
+  "n_camere": 15,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 69,
+  "regione": "Toscana",
+  "prezzo": 1229058,
+  "superficie": 383,
+  "n_camere": 16,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 70,
+  "regione": "Liguria",
+  "prezzo": 1276374,
+  "superficie": 416,
+  "n_camere": 14,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 71,
+  "regione": "Molise",
+  "prezzo": 1461431,
+  "superficie": 769,
+  "n_camere": 13,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 72,
+  "regione": "Piemonte",
+  "prezzo": 1453323,
+  "superficie": 248,
+  "n_camere": 13,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 73,
+  "regione": "Piemonte",
+  "prezzo": 557146,
+  "superficie": 570,
+  "n_camere": 10,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 74,
+  "regione": "Lombardia",
+  "prezzo": 1332499,
+  "superficie": 650,
+  "n_camere": 6,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 75,
+  "regione": "Puglia",
+  "prezzo": 780817,
+  "superficie": 232,
+  "n_camere": 16,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 76,
+  "regione": "Trentino-Alto Adige",
+  "prezzo": 745287,
+  "superficie": 294,
+  "n_camere": 20,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 77,
+  "regione": "Trentino-Alto Adige",
+  "prezzo": 303502,
+  "superficie": 714,
+  "n_camere": 11,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 78,
+  "regione": "Abruzzo",
+  "prezzo": 279405,
+  "superficie": 208,
+  "n_camere": 20,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 79,
+  "regione": "Trentino-Alto Adige",
+  "prezzo": 868628,
+  "superficie": 558,
+  "n_camere": 8,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 80,
+  "regione": "Umbria",
+  "prezzo": 627278,
+  "superficie": 542,
+  "n_camere": 20,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 81,
+  "regione": "Valle d'Aosta",
+  "prezzo": 528104,
+  "superficie": 533,
+  "n_camere": 16,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 82,
+  "regione": "Lazio",
+  "prezzo": 504301,
+  "superficie": 558,
+  "n_camere": 6,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 83,
+  "regione": "Piemonte",
+  "prezzo": 770825,
+  "superficie": 490,
+  "n_camere": 6,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 84,
+  "regione": "Marche",
+  "prezzo": 729918,
+  "superficie": 479,
+  "n_camere": 11,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 85,
+  "regione": "Calabria",
+  "prezzo": 215655,
+  "superficie": 205,
+  "n_camere": 12,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}, {
+  "id": 86,
+  "regione": "Piemonte",
+  "prezzo": 1464302,
+  "superficie": 312,
+  "n_camere": 19,
+  "giardino": false,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 87,
+  "regione": "Marche",
+  "prezzo": 974082,
+  "superficie": 434,
+  "n_camere": 19,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 88,
+  "regione": "Lazio",
+  "prezzo": 1375570,
+  "superficie": 710,
+  "n_camere": 9,
+  "giardino": false,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 89,
+  "regione": "Sardegna",
+  "prezzo": 867780,
+  "superficie": 697,
+  "n_camere": 15,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 90,
+  "regione": "Liguria",
+  "prezzo": 1482780,
+  "superficie": 538,
+  "n_camere": 12,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 91,
+  "regione": "Veneto",
+  "prezzo": 1076926,
+  "superficie": 757,
+  "n_camere": 8,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 92,
+  "regione": "Veneto",
+  "prezzo": 544363,
+  "superficie": 671,
+  "n_camere": 17,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/cc0000/ffffff"
+}, {
+  "id": 93,
+  "regione": "Marche",
+  "prezzo": 775909,
+  "superficie": 637,
+  "n_camere": 14,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 94,
+  "regione": "Molise",
+  "prezzo": 1268221,
+  "superficie": 670,
+  "n_camere": 19,
+  "giardino": true,
+  "piscina": false,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 95,
+  "regione": "Lombardia",
+  "prezzo": 356036,
+  "superficie": 311,
+  "n_camere": 10,
+  "giardino": true,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 96,
+  "regione": "Calabria",
+  "prezzo": 1172764,
+  "superficie": 295,
+  "n_camere": 11,
+  "giardino": true,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 97,
+  "regione": "Valle d'Aosta",
+  "prezzo": 565985,
+  "superficie": 590,
+  "n_camere": 5,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 98,
+  "regione": "Liguria",
+  "prezzo": 1122522,
+  "superficie": 487,
+  "n_camere": 12,
+  "giardino": false,
+  "piscina": false,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/5fa2dd/ffffff"
+}, {
+  "id": 99,
+  "regione": "Calabria",
+  "prezzo": 571963,
+  "superficie": 351,
+  "n_camere": 15,
+  "giardino": false,
+  "piscina": true,
+  "home": true,
+  "immagine": "http://dummyimage.com/400x400.png/dddddd/000000"
+}, {
+  "id": 100,
+  "regione": "Emilia-Romagna",
+  "prezzo": 1204991,
+  "superficie": 266,
+  "n_camere": 14,
+  "giardino": true,
+  "piscina": true,
+  "home": false,
+  "immagine": "http://dummyimage.com/400x400.png/ff4444/ffffff"
+}]
